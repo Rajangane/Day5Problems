@@ -1,0 +1,15 @@
+G:\bridzlabz\Day5Problems\Day5Problems\bin\Debug\net6.0\Day5Problems.exe
+G:\bridzlabz\Day5Problems\Day5Problems\bin\Debug\net6.0\Day5Problems.deps.json
+G:\bridzlabz\Day5Problems\Day5Problems\bin\Debug\net6.0\Day5Problems.runtimeconfig.json
+G:\bridzlabz\Day5Problems\Day5Problems\bin\Debug\net6.0\Day5Problems.dll
+G:\bridzlabz\Day5Problems\Day5Problems\bin\Debug\net6.0\ref\Day5Problems.dll
+G:\bridzlabz\Day5Problems\Day5Problems\bin\Debug\net6.0\Day5Problems.pdb
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\Day5Problems.csproj.AssemblyReference.cache
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\Day5Problems.GeneratedMSBuildEditorConfig.editorconfig
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\Day5Problems.AssemblyInfoInputs.cache
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\Day5Problems.AssemblyInfo.cs
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\Day5Problems.csproj.CoreCompileInputs.cache
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\Day5Problems.dll
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\ref\Day5Problems.dll
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\Day5Problems.pdb
+G:\bridzlabz\Day5Problems\Day5Problems\obj\Debug\net6.0\Day5Problems.genruntimeconfig.cache
