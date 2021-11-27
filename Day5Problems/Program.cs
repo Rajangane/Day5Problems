@@ -8,4 +8,5 @@ using Day5Problems;
 //new fact().DisplayFact();
 //new QuotRem().DisplayQuotRem();
 //new Swaping().SwapNum();
-new EvenOdd().DisplayEvenOdd();
+//new EvenOdd().DisplayEvenOdd();
+new Vowel().Vowel_Consonant();
