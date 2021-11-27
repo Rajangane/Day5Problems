@@ -5,3 +5,4 @@ new HeadTail().FlipCoinHeadTail();
 new LeapYear().CheackLeap();
 new PowerOf().PowerOf2();
 new HarmonicNum().DisplayHarmonic();
+new fact().DisplayFact();
