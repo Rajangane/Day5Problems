@@ -9,4 +9,5 @@ using Day5Problems;
 //new QuotRem().DisplayQuotRem();
 //new Swaping().SwapNum();
 //new EvenOdd().DisplayEvenOdd();
-new Vowel().Vowel_Consonant();
+//new Vowel().Vowel_Consonant();
+new Large().LargeNum();
