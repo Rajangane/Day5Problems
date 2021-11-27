@@ -7,4 +7,5 @@ using Day5Problems;
 //new HarmonicNum().DisplayHarmonic();
 //new fact().DisplayFact();
 //new QuotRem().DisplayQuotRem();
-new Swaping().SwapNum();
+//new Swaping().SwapNum();
+new EvenOdd().DisplayEvenOdd();
